@@ -6,7 +6,7 @@ Grupo en Telegram https://t.me/Pen7esting
 
 # Uso
 
-Para el funcionamiento correcto de la herramiento, antes de usarla vamos a la ruta /etc/proxychains.conf y modificamos o quitamos socks4 127.0.0.1 9050 y colocamos socks4 127.0.0.1 1080.
+Para el funcionamiento correcto de la herramienta, antes de usarla vamos a la ruta /etc/proxychains.conf y modificamos o quitamos socks4 127.0.0.1 9050 y colocamos socks4 127.0.0.1 1080.
 
 opcion 1: instalamos Mitm6
 
