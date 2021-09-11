@@ -4,6 +4,8 @@ Canal de youtube  https://youtube.com/c/Anonimo501
 
 Grupo en Telegram https://t.me/Pen7esting
 
+# Uso
+
 Para el funcionamiento correcto de la herramiento, antes de usarla vamos a la ruta /etc/proxychains.conf y modificamos o quitamos socks4 127.0.0.1 9050 y colocamos socks4 127.0.0.1 1080.
 
 opcion 1: instalamos Mitm6
@@ -28,7 +30,7 @@ El script se ejecuto sobre ParrotOS 4.11
 ![1](https://user-images.githubusercontent.com/67207446/132951983-11e833fe-0df9-4e04-920b-85c893ea3aca.png)
 
 
-## Uso
+## Instalacion
 
 git clone https://github.com/Anonimo501/SambaRelayIpv6.git
 
