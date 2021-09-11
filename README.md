@@ -8,6 +8,10 @@ Grupo en Telegram https://t.me/Pen7esting
 
 El script se ejecuto sobre ParrotOS 4.10
 
+
+![1](https://user-images.githubusercontent.com/67207446/132951983-11e833fe-0df9-4e04-920b-85c893ea3aca.png)
+
+
 ## Uso
 
 git clone https://github.com/Anonimo501/SambaRelayIpv6.git
