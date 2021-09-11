@@ -18,7 +18,7 @@ opcion 4: Ejecutar Impacket, ingresaremos la ip victima y la ip de atacante, una
 
 ![2](https://user-images.githubusercontent.com/67207446/132954107-21a2bca7-3610-4edc-8962-4e2cc49cd849.png)
 
-
+opcion 5: por ultimo si nos aparece en AdminStatus True y el Usuario tiene los permisos sobre los equipos ejecutamos esta opcion e ingresamos la ip victima el nombre del usuario y el dominio, por ultimo esta opcion debe traernos los Hash de la SAM, para posteriormente usar estos Hash en ataques como Pass The Hash.
 
 # Sistema Operativo
 
