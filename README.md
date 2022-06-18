@@ -16,7 +16,7 @@ Estos dos anteriores son importantes y se deben instalar antes de ejecutar el at
 
 opcion 3: Ejecutamos Mitm6, una vez ejecutado el script nos pedira ingresar el dominio Ejemplo: corp.local
 
-opcion 4: Ejecutar Impacket, ingresaremos la ip victima y la ip de atacante, una vez hecho esto tendremos una consola interactiva donde debemos cada x tiempo ingresar el comando socks esperando una respuesta de AdminStatus - True, cabe resaltar que con ayuda de crackmapexec podemos encontrar el servidor AD, los equipos atacar y el dominio.
+opcion 4: Ejecutar Impacket, ingresaremos la ip victima y la ip de atacante, una vez hecho esto tendremos una consola interactiva donde debemos cada x tiempo ingresar el comando socks esperando una respuesta de AdminStatus - True, cabe resaltar que con ayuda de crackmapexec podemos encontrar el servidor DC, los equipos atacar y el dominio.
 
 ![2](https://user-images.githubusercontent.com/67207446/132954107-21a2bca7-3610-4edc-8962-4e2cc49cd849.png)
 
